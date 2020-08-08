@@ -1,2 +1,5 @@
 Django>=2.2.4
 mysqlclient==1.4.6
+django-allauth
+pillow==6.0.0
+selenium==3.141.0
